@@ -1,0 +1,4 @@
+winshell
+psutil
+pywin32
+rich
